@@ -2,7 +2,7 @@
 
 <strong>:wavy_dash: Sobre</strong>
 
-modelagem e consulta de um banco de dados SQL para armazenar dados de um serviço simples de streaming de música, respeitando a 1ª, 2ª e 3ª Formas Normais, desenvolvido durante o curso de Desenvolvimento Web Full Stack da Trybe. Cada arquivo iniciado pela palavra ``desafio`` armazena queries SQL escritas por mim, de acordo com cada requisito.
+Modelagem e consulta de um banco de dados SQL para armazenar dados de um serviço simples de streaming de música, respeitando a 1ª, 2ª e 3ª Formas Normais, desenvolvido durante o curso de Desenvolvimento Web Full Stack da Trybe. Cada arquivo iniciado pela palavra ``desafio`` armazena queries SQL escritas por mim, de acordo com cada requisito.
 
 <strong> Os principais comandos SQL praticados nesse projeto foram: </strong>
 
